@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "62351847805",
+    "firebase_url": "https://newsplash-7a56e.firebaseio.com",
+    "project_id": "newsplash-7a56e",
+    "storage_bucket": "newsplash-7a56e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62351847805:android:5939f5b72ece8735c19c14",
+        "android_client_info": {
+          "package_name": "com.example.newsplash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62351847805-qqcd40vgnq2amtsdpsrpj6nptv5otdsl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Kh-eev9WAMQwpJg7fNzykzbYHAdQeBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "62351847805-qqcd40vgnq2amtsdpsrpj6nptv5otdsl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

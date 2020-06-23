@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">newSplash</string>
+    <string name="todo">TODO</string>
+    <string name="name">Name</string>
+    <string name="textview">TextView</string>
+    <string name="button">Button</string>
+    <string name="sing_up">Sing Up</string>
+    <string name="already_have_an_account_sing_in_here">Already have an account? Sing in here</string>
+    <string name="sing_in">Sing In</string>
+    <string name="not_registered_sing_up_here">Not registered? Sing Up here</string>
+    <string name="welcome">Welcome</string>
+    <string name="skymilk_application">SkyMilk Application</string>
+    <string name="register_new_account">Register new account</string>
+    <string name="full_name">Full Name</string>
+    <string name="already_register_login_here">Already register? Login here</string>
+    <string name="register">Register</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+</resources>
